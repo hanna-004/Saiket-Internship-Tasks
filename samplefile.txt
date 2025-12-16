@@ -1,0 +1,4 @@
+"Hello world! This is a test file.
+This file is created to demonstrate the Word Count Tool.
+You can add more lines and words to test the analysis.
+Python makes text processing easy and fun.

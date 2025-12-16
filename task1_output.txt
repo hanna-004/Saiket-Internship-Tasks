@@ -1,0 +1,111 @@
+--- TO-DO LIST MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Enter your choice: 1
+Enter task description: wake up at 6'o clock
+Task added successfully!
+
+--- TO-DO LIST MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Enter your choice: 1
+Enter task description: study for exam
+Task added successfully!
+
+--- TO-DO LIST MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Enter your choice: 1
+Enter task description: writing exam very well
+Task added successfully!
+
+--- TO-DO LIST MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Enter your choice: 2
+
+Your Tasks:
+1. wake up at 6'o clock [✗ Not Completed]
+2. study for exam [✗ Not Completed]
+3. writing exam very well [✗ Not Completed]
+
+--- TO-DO LIST MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Enter your choice: 3
+
+Your Tasks:
+1. wake up at 6'o clock [✗ Not Completed]
+2. study for exam [✗ Not Completed]
+3. writing exam very well [✗ Not Completed]
+Enter task number to mark completed: 1
+Task marked as completed!
+
+--- TO-DO LIST MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Enter your choice: 3
+
+Your Tasks:
+1. wake up at 6'o clock [✔ Completed]
+2. study for exam [✗ Not Completed]
+3. writing exam very well [✗ Not Completed]
+Enter task number to mark completed: 2
+Task marked as completed!
+
+--- TO-DO LIST MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Enter your choice: 3
+
+Your Tasks:
+1. wake up at 6'o clock [✔ Completed]
+2. study for exam [✔ Completed]
+3. writing exam very well [✗ Not Completed]
+Enter task number to mark completed: 3
+Task marked as completed!
+
+--- TO-DO LIST MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Enter your choice: 4
+
+Your Tasks:
+1. wake up at 6'o clock [✔ Completed]
+2. study for exam [✔ Completed]
+3. writing exam very well [✔ Completed]
+Enter task number to remove: 3
+Task 'writing exam very well' removed successfully!
+
+--- TO-DO LIST MENU ---
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Enter your choice: 5
+Exiting... Goodbye!
